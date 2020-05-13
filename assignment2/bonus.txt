@@ -1,0 +1,2 @@
+Ngoài ra chúng ta có thể tạo sẵn view để dễ dàng truy vấn và mở rộng ứng dụng
+store procedure sẽ giúp chúng ta tăng tốc độ thực thi câu lệnh SQL, giúp đạt được logic nhất quán trong ứng dụng
